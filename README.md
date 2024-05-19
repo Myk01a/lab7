@@ -23,7 +23,7 @@
 
 2 clone this repository
 ```
-git clone <https://github.com/612284/Kh-071-01-DevOps-Demo-2.git>
+git clone <https://github.com/Myk01a/lab7.git>
 ```
 3 enter your variables in the terraform.tfvars file
 ```
